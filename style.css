@@ -1,6 +1,6 @@
 <style type="text/css">
 body {
-	background-color: #CCC;
+	background-color:#bd90e5;
 	margin:80px 80px 100px 100px;
 }
 div#fixedheader {
@@ -16,7 +16,7 @@ div#fixedfooter {
 	
 	width:100%;
 	color:#CCC;
-	background:#333;
+	background:#bd90e5;
 	padding:8px;
 }
 </style>
