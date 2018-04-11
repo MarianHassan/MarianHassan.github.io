@@ -1,10 +1,10 @@
+<style type="text/css">
 body {
-	background-color:#bd90e5 ;
+	background-color: #CCC;
 	margin:80px 80px 100px 100px;
 }
 div#fixedheader {
 	position:;
-	
 	width:100%;
 	color:#CCC;
 	background:#333;
@@ -12,10 +12,10 @@ div#fixedheader {
 }
 div#fixedfooter {
 	position:;
-	
 	width:100%;
 	color:#CCC;
-	background:#;
+	background:#333;
 	padding:8px;
 }
-</>
+</style>
+
